@@ -1,3 +1,5 @@
+import { Routing } from 'pages';
+
 export const App = () => {
-  return <div>New react app</div>;
+  return <Routing />;
 };
